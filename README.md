@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a food delivery mobile app;ication for both android and ios.
+
+The User interface is written with flutter (dart framework),
 
 A few resources to get you started if this is your first Flutter project:
 
